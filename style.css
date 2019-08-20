@@ -1,0 +1,70 @@
+.mal{
+    color: blueviolet;
+    text-transform: uppercase;
+}
+.bien{
+    color: crimson;
+    text-transform: uppercase;
+}
+.Chinese_Story{
+    color: antiquewhite;
+    text-align : center;
+    letter-spacing: 3px ;
+    background-color: gray;
+    background-position: center;
+}
+a:link {color: black;}
+a:visited {color: blue;}
+a:hover {color: red;}
+a:active {color: red;}
+
+body{
+    width: 90%;
+    margin: 5%;
+    background-image: linear-gradient(to left,blue,green);
+
+}
+.Chinese_Story blockquote{
+    color: black;
+    width: 95%;
+    margin-top: 80px ;
+    margin-bottom:80px;
+    font-size: 160% ;
+    background-color:lightgrey;
+    border-left: 3px solid brown;
+    text-align: center;
+    font-style: italic;
+}
+.Type_1{
+    margin-bottom: 20px;
+    background-image: url("https://raw.githubusercontent.com/becodeorg/LIE-Jepsen-2.14/master/01-the-field/html-css/progressive-enhancement/bien.png?token=AM4PU3RAHOOKV6ABQL3C3CS5MTIAY");
+    background-repeat: no-repeat;
+    padding-right: 50% ;
+    padding-bottom: 30px;
+}
+.Type_2{
+    margin-bottom: 20px;
+    background-image: url("https://raw.githubusercontent.com/becodeorg/LIE-Jepsen-2.14/master/01-the-field/html-css/progressive-enhancement/mal.png?token=AM4PU3UME2KYOOWV7AFD6US5MTMZK");
+    background-repeat: no-repeat;
+    padding-right: 50% ;
+    padding-bottom: 30px;
+    
+
+}
+.Type_3{
+    margin-bottom: 20px;
+    background-image: url("https://raw.githubusercontent.com/becodeorg/LIE-Jepsen-2.14/master/01-the-field/html-css/progressive-enhancement/chat.png?token=AM4PU3WWADARVL23RO3XLYK5MTNHU");
+    background-origin: content-box;    
+    background-repeat: no-repeat;
+    padding-right: 50% ;
+    padding-bottom: 30px;
+
+}
+.Type_4{
+    padding-right: 50% ;
+    padding-bottom: 30px;
+    margin-bottom: 20px;  
+}
+.Para_1{
+    font-weight: bold
+}
